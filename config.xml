@@ -62,7 +62,15 @@
 
     <preference name="SplashScreen" value="splash.png" />
     <preference name="SplashScreenDelay" value="10000" />
-
-    <content src="http://radio-islamona.com/index.html" />
     <access origin="*" subdomains="true" />
+    <content src="http://radio-islamona.com/index.html" />
+    <allow-intent href="http://*/*" />
+<allow-intent href="https://*/*" />
+<allow-intent href="tel:*" />
+<allow-intent href="sms:*" />
+<allow-intent href="mailto:*" />
+<allow-intent href="geo:*" />
+<platform name="android">
+    <allow-intent href="market:*" />
+</platform>
 </widget>

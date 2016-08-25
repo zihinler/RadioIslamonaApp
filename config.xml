@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.zihinler.radio-islamona" version=“1.0.5” xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.zihinler.radio-islamona" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 
     <name>راديو إسلامنا</name>
     <description>إذاعة " إسلامنا " سبيل من سبل الدعوة إلى الله تعالى وتأصيل شعائر دينه الحنيف في قلوب عامة الناس في زمن كثرت فيه الفتن وقلت فيه وسائل الهداية .. لا تتبع لأي جهة أيا كانت ولا تتبنى أفكار أي منهج .. تتخذ من الوسطية دربا لها بنور القرآن وعلى خطى الحبيب المصطفى صلى الله عليه وسلم ..</description>
@@ -62,7 +62,7 @@
 
     <preference name="SplashScreen" value="splash.png" />
     <preference name="SplashScreenDelay" value="10000" />
-    
+
     <content src="http://radio-islamona.com/index.html" />
     <access origin="*" subdomains="true" />
 </widget>

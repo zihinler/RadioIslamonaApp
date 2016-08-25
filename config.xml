@@ -62,6 +62,7 @@
 
     <preference name="SplashScreen" value="splash.png" />
     <preference name="SplashScreenDelay" value="10000" />
+    
     <content src="http://radio-islamona.com/index.html" />
     <access origin="*" subdomains="true" />
 </widget>

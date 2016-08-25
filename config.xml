@@ -22,6 +22,8 @@
     <gap:plugin name="org.apache.cordova.dialogs" />
     <gap:plugin name="org.apache.cordova.vibration" />
     <gap:plugin name="com.simplec.plugins.localnotification" />
+    <plugin name="com.phearme.cordovaplugin.contentproviderplugin" spec="0.2.7" source="pgb" />
+
 
 	<icon src="icon.png" />
       <icon gap:platform="android" gap:qualifier="ldpi" src="res/icons/android/icon-36-ldpi.png"/>

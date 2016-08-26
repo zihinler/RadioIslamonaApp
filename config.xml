@@ -67,6 +67,6 @@
     <preference name="SplashScreenDelay" value="10000" />
     <access origin="*" subdomains="true" />
     <content src="index.html" />
-<allow-navigation href="https://zihinler.com/*"/>
+<allow-navigation href="http://www.radio-islamona.com/*"/>
 
 </widget>

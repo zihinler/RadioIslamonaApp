@@ -65,7 +65,6 @@
 
     <preference name="SplashScreen" value="splash.png" />
     <preference name="SplashScreenDelay" value="10000" />
-    <access origin="www.google.com/*"/>
 
     <!-- <access origin="*" subdomains="true" /> -->
     <!-- <content src="index.html" /> -->

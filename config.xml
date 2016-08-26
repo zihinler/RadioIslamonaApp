@@ -73,6 +73,5 @@
     <content src="https://google.com/">
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" launch-external="no"/>
-    <allow-navigation href="http://*/*" />
-    <allow-navigation href="https://*/*" />
+    
 </widget>

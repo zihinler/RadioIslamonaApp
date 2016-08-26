@@ -5,7 +5,7 @@
     <description>إذاعة " إسلامنا " سبيل من سبل الدعوة إلى الله تعالى وتأصيل شعائر دينه الحنيف في قلوب عامة الناس في زمن كثرت فيه الفتن وقلت فيه وسائل الهداية .. لا تتبع لأي جهة أيا كانت ولا تتبنى أفكار أي منهج .. تتخذ من الوسطية دربا لها بنور القرآن وعلى خطى الحبيب المصطفى صلى الله عليه وسلم ..</description>
     <author email="info@zihinler.com" href="http://www.zihinler.com">Zihinler</author>
 
-    <preference name="phonegap-version" value="3.7.0" />
+    <preference name="phonegap-version" value="cli-6.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
 
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
@@ -66,7 +66,7 @@
     <preference name="SplashScreen" value="splash.png" />
     <preference name="SplashScreenDelay" value="10000" />
     <access origin="*" subdomains="true" />
-    <content src="http://radio-islamona.com/index.html" />
+    <content src="https://zihinler.com/" />
     <allow-intent href="http://*/*" />
 <allow-intent href="https://*/*" />
 <allow-intent href="tel:*" />
